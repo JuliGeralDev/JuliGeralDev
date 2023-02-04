@@ -4,15 +4,14 @@
 # Acerca de mi <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
 
 <a href="https://www.linkedin.com/in/julicodev/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Abhishek's LinkedIN" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   JuliCoDev
 </a>
  
  
  
 <p>
-  <em>
-    
+  <em>    
     Tecnóloga en análisis y desarrollo de sistemas de información en  <a href="https://www.sena.edu.co/">SENA</a>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
     <br/>
