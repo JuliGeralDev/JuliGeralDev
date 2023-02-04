@@ -8,8 +8,11 @@
   JuliCoDev
 </a>
  
+ 
+ 
 <p>
   <em>
+    
     Tecnóloga en análisis y desarrollo de sistemas de información en  <a href="https://www.sena.edu.co/">SENA</a>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
     <br/>
