@@ -10,6 +10,28 @@
   Soy una persona responsable, autodidacta, disciplinada y apasionada por el desarrollo de software. Con 6 años de experiencia en desarrollo web, me encanta asumir nuevos retos, adaptarme con facilidad a los cambios y esforzarme día a día por aprender algo nuevo.
 </p>
 
+## ⚙️ Principales herramientas y lenguajes
+
+### 🖥️ Front-End
+- React: estados, hooks, context, Redux, props, componentes de clase y funcionales
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- Tailwind CSS
+
+### 🛠️ Back-End
+- SQL: Consultas básicas (CREATE, UPDATE, DELETE, SELECT), triggers
+- PHP: Programación orientada a objetos, estructura MVC
+- Symfony: Implementación de APIs
+- Laravel: Implementación de APIs
+- MongoDB
+
+### 🧰 Otras herramientas
+- GitHub / GitLab / Bitbucket: Control de versiones (SourceTree)
+- Firebase
+- Netlify
+- Amazon Web Services (AWS)
 
 ## 🎓 Estudios
 <p>
@@ -45,26 +67,4 @@ const majorSkills = {
 ```
 
 
-## ⚙️ Principales herramientas y lenguajes
-
-### 🖥️ Front-End
-- React: estados, hooks, context, Redux, props, componentes de clase y funcionales
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- Tailwind CSS
-
-### 🛠️ Back-End
-- SQL: Consultas básicas (CREATE, UPDATE, DELETE, SELECT), triggers
-- PHP: Programación orientada a objetos, estructura MVC
-- Symfony: Implementación de APIs
-- Laravel: Implementación de APIs
-- MongoDB
-
-### 🧰 Otras herramientas
-- GitHub / GitLab / Bitbucket: Control de versiones (SourceTree)
-- Firebase
-- Netlify
-- Amazon Web Services (AWS)
 
